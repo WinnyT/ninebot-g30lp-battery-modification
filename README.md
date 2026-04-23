@@ -1,0 +1,1 @@
+# ninebot-g30lp-battery-modification
