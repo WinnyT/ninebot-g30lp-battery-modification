@@ -48,4 +48,4 @@ Third Layers:
 
 
 # BOM
-Check out BOM-Fall Out.csv
+Check out BOM-Fall Out.csv or [this](https://docs.google.com/spreadsheets/d/191cu1r_YpP-73jhAp7Nb7XhEy7SgY3vlMz-WbVUBsMo/edit?usp=sharing) link. 
