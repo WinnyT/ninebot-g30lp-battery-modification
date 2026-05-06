@@ -1,4 +1,4 @@
-# Designing new battery pack for Ninebot G30LP Scooter
+ar# Designing new battery pack for Ninebot G30LP Scooter
 The new battery pack I have designed will provide more range to the scooter with a lower cost, and can be adjust based on personal preferences. This design can potentially increase the speed of the scooter through some modification.
 <p align="center"> 
 <img width="488" height="693" alt="image" src="https://github.com/user-attachments/assets/0fbd3cb2-8e2e-493c-80f0-df2955382c33" />
@@ -13,25 +13,28 @@ To use the new Design Ninebot scooter pack, you just have to follow these few st
    2. Take out the BMS and be carefull with the wire. 
 2. 3D print the new design and buy the battery cells (18650) based on your desire range.
    1. Check the Voltage of each cell to make sure there are no dead cells.
-   2. Put the battery in with the right side up ( blue is negative, red is positive)
-3. Spot welding all the battery by following the chart (see bellow)
+   2. Tape the Barley paper to the positive terminal
+   3. Put the battery in with the right side up ( blue is negative, red is positive)
+3. Spot welding all the battery by following the chart (see below)
 4. Connect the BMS to the pack
    1. Replace the BMS pin
-   2. Put the temperature control wire into the dedicated spot
-   3. Solder it on the nickel strip between 2 cells. **NOT** on top of the cells
-   4. Solder the total negative wire first ( black line)
-   5. Follow the number from 1 - 10 (see the chart below)
+   2. Tape the heatsink on top of the MOSFETs
+   3. Put the temperature control wire into the dedicated spot
+   4. Split up the BMS wires
+   5. Solder it on the **nickel strip** between 2 cells. **NOT** on top of the cells
+   6. Solder the total negative wire first ( black line)
+   7. Follow the number from 1 - 10 (see the chart below)
 6. Secure the pack
    1. Cut the Epoxy Resin Board according to the battery pack size.
    2. Put double tape on the battery pack ( space it out)
    3. If the board is not in one piece, you can tape it with Kapton Tape
    4. Stick the board on the pack, then put the whole pack into heat shrink
-   5. Carefully shrink it
+   5. Carefully heat and shrink it. 
    6. Secure the wire (chargind and data cable) with silicone
 7. Put the pack back into the battery compartment by using the bolt, washer and **thread locker**
 
 # Why Did I Make This
-My scooter is my best friend when it come to commuting. When I don't have a lisence, I use scooter; when I do have a permit, I use scooter; when I will have a class D lisence, I will still use scooter. First of all because it's environmental friendly and compact. Second is because driving a car is costly for me. The insurance and gas might drain all my pay check, but it does buy time, and time is all I have. 
+My scooter is my best friend when it come to commuting. When I don't have a lisence, I use scooter; when I do have a permit, I use scooter; when I will have a class D licence, I will still use scooter. First of all because it's environmental friendly and compact. Second is because driving a car is costly for me. The insurance and gas might drain all my pay check, but it does buy time, and time is all I have. 
 But after a while of driving it (3000+ miles), my scooter has become weaker and unable to go farther. When I checked the price of the new battery pack, it cost ~$300. 
 I don't think it worth the price so I decided to make it my own, and the cost indeed come out lower! I can now go farther (to the library AND back), and the speed is more stable. 
 
@@ -51,6 +54,9 @@ Third Layers:
 <img width="1029" height="171" alt="image" src="https://github.com/user-attachments/assets/5f58f86a-7a4e-4a2d-ab82-d2e1dbac7ba7" />
 
 # BMS
+Split up the BMS wires into 10 different group, because we are using 15 wires but we only need 11
+<img width="595" height="562" alt="image" src="https://github.com/user-attachments/assets/d2c4d8cc-d7c2-4d08-8502-fb8b6e4d1649" />
+
 <img width="1264" height="205" alt="image" src="https://github.com/user-attachments/assets/6ccf18cf-91b1-4df3-8ebf-597151072daf" /> <br>
 For no.10 wire, solder it across the parallel like the total negative parallel. 
 
