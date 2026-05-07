@@ -20,7 +20,7 @@ To use the new Design Ninebot scooter pack, you just have to follow these few st
    1. Replace the BMS pin
    2. Tape the heatsink on top of the MOSFETs
    3. Put the temperature control wire into the dedicated spot
-   4. Split up the BMS wires
+   4. Split up the BMS wires (see below)
    5. Solder it on the **nickel strip** between 2 cells. **NOT** on top of the cells
    6. Solder the total negative wire first ( black line)
    7. Follow the number from 1 - 10 (see the chart below)
@@ -55,7 +55,7 @@ Third Layers:
 
 # BMS
 Split up the BMS wires into 10 different group, because we are using 15 wires but we only need 11
-<img width="595" height="562" alt="image" src="https://github.com/user-attachments/assets/d2c4d8cc-d7c2-4d08-8502-fb8b6e4d1649" />
+<img width="526" height="604" alt="image" src="https://github.com/user-attachments/assets/f3d7c9a2-c865-43e4-afcf-dc2a609eedbc" />
 
 <img width="1264" height="205" alt="image" src="https://github.com/user-attachments/assets/6ccf18cf-91b1-4df3-8ebf-597151072daf" /> <br>
 For no.10 wire, solder it across the parallel like the total negative parallel. 
