@@ -10,8 +10,8 @@ The new battery pack I have designed will provide more range to the scooter with
 To use the new Design Ninebot scooter pack, you just have to follow these few step:
 1. Unscrew/remove the old battery pack
    1. Open up the old battery pack, it mights be hard at first because there is glue between the cap.
-   2. Take out the BMS and be carefull with the wire. 
-2. 3D print the new design and buy the battery cells (18650) based on your desire range.
+   2. Take out the BMS and be carefull with the wire.
+   3. Print the new design and buy the battery cells (18650) based on your desire range.
    1. Check the Voltage of each cell to make sure there are no dead cells.
    2. Tape the Barley paper to the positive terminal
    3. Put the battery in with the right side up ( blue is negative, red is positive)
@@ -54,7 +54,7 @@ Third Layers:
 <img width="1029" height="171" alt="image" src="https://github.com/user-attachments/assets/5f58f86a-7a4e-4a2d-ab82-d2e1dbac7ba7" />
 
 # BMS
-Split up the BMS wires into 10 different group, because we are using 15 wires but we only need 11
+Split up the BMS wires into 10 diff.erent group, because we are using 15 wires but we only need 11. **Take the remaining unsuded wires (pin 12 to 15) twist them together with Pin 11, and solder that entire bundle to the Total Positive terminal. 
 <img width="526" height="604" alt="image" src="https://github.com/user-attachments/assets/f3d7c9a2-c865-43e4-afcf-dc2a609eedbc" />
 
 <img width="1264" height="205" alt="image" src="https://github.com/user-attachments/assets/6ccf18cf-91b1-4df3-8ebf-597151072daf" /> <br>
