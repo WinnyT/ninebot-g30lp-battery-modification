@@ -32,7 +32,10 @@ To use the new Design Ninebot scooter pack, you just have to follow these few st
    5. Carefully heat and shrink it. 
    6. Secure the wire (chargind and data cable) with silicone
 7. Put the pack back into the battery compartment by using the bolt, washer and **thread locker**
-
+#Safety Warning
+1. Barkey Paper is a **MUST**
+2. Never solder or work on the BMS board while the 15-pin balance connector is plugges into te battery
+3. **High-Current Live Voltage**
 # Why Did I Make This
 My scooter is my best friend when it come to commuting. When I don't have a lisence, I use scooter; when I do have a permit, I use scooter; when I will have a class D licence, I will still use scooter. First of all because it's environmental friendly and compact. Second is because driving a car is costly for me. The insurance and gas might drain all my pay check, but it does buy time, and time is all I have. 
 But after a while of driving it (3000+ miles), my scooter has become weaker and unable to go farther. When I checked the price of the new battery pack, it cost ~$300. 
