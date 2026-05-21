@@ -1,4 +1,4 @@
-# Designing new battery pack for Ninebot G30LP Scooter
+# 3D - printing battery case and assembling for Ninebot Scooter G30LP
 The new battery pack I have designed will provide more range to the scooter with a lower cost, and can be adjust based on personal preferences. This design can potentially increase the speed of the scooter through some modification.
 <p align="center"> 
 <img width="488" height="693" alt="image" src="https://github.com/user-attachments/assets/0fbd3cb2-8e2e-493c-80f0-df2955382c33" />
@@ -59,6 +59,9 @@ Third Layers:
 # BMS
 Split up the BMS wires into 10 diff.erent group, because we are using 15 wires but we only need 11. **Take the remaining unsuded wires (pin 12 to 15) twist them together with Pin 11, and solder that entire bundle to the Total Positive terminal. 
 <img width="526" height="604" alt="image" src="https://github.com/user-attachments/assets/f3d7c9a2-c865-43e4-afcf-dc2a609eedbc" />
+<br >
+_this is just a wiring diagram, not a manufactured pcb_
+<br>
 
 <img width="1264" height="205" alt="image" src="https://github.com/user-attachments/assets/6ccf18cf-91b1-4df3-8ebf-597151072daf" /> <br>
 For no.10 wire, solder it across the parallel like the total negative parallel. 
