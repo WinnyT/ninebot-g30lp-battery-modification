@@ -1,7 +1,9 @@
 # 3D - printing battery case and assembling for Ninebot Scooter G30LP
 The new battery pack I have designed will provide more range to the scooter with a lower cost, and can be adjust based on personal preferences. This design can potentially increase the speed of the scooter through some modification.
 <p align="center"> 
-<img width="488" height="693" alt="image" src="https://github.com/user-attachments/assets/0fbd3cb2-8e2e-493c-80f0-df2955382c33" />
+<img width="402" height="574" alt="image" src="https://github.com/user-attachments/assets/2244f87b-efd2-40c3-bfc9-30bf4cad4837" />
+
+ />
 
 </p>
 
